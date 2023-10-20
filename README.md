@@ -1,4 +1,4 @@
-## SIRAC:  semi-structured IRAC(Issue, Rule, Analysis and Conclusion) corpus for legal scenarios
+## SIRAC:  semi-structured IRAC(Issue, Rule, Application and Conclusion) corpus for legal scenarios
 SIRAC :  semi-structured IRAC(Issue, Rule, Application and Conclusion) corpus for legal scenarios
 
 This repository contains the code for the SIRAC ： semi-structured IRAC(Issue, Rule, Application and Conclusion) corpus for legal scenarios. The project is associated paper "Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?". The data orpus conssiting of scenarios pertain to Contract Acts Malaysia and Australian Social Act for Dependent Child. 
