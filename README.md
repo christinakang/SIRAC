@@ -1,9 +1,9 @@
 ## SIRAC:  semi-structured IRAC(Issue, Rule, Analysis and Conclusion) corpus for legal scenarios
-SIRAC :  semi-structured IRAC(Issue, Rule, Analysis and Conclusion) corpus for legal scenarios
+SIRAC :  semi-structured IRAC(Issue, Rule, Application and Conclusion) corpus for legal scenarios
 
-This repository contains the code for the SIRAC ： semi-structured IRAC(Issue, Rule, Analysis and Conclusion) corpus for legal scenarios. The project is associated paper "Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?". The data orpus conssiting of scenarios pertain to Contract Acts Malaysia and Australian Social Act for Dependent Child. 
+This repository contains the code for the SIRAC ： semi-structured IRAC(Issue, Rule, Application and Conclusion) corpus for legal scenarios. The project is associated paper "Can ChatGPT Perform Reasoning Using the IRAC Method in Analyzing Legal Scenarios Like a Lawyer?". The data orpus conssiting of scenarios pertain to Contract Acts Malaysia and Australian Social Act for Dependent Child. 
 
-IRAC (Issue, Rule, Analysis and Conclusion) is framework widely used by legal professionals for organizing legal analysis. Each scenarios in the corpus is annotated with a complete IRAC analysis in a semi-structred format so that both machines and legal professionals are albe to interpret and nderstand the annotations. 
+IRAC (Issue, Rule, Application and Conclusion) is framework widely used by legal professionals for organizing legal analysis. Each scenarios in the corpus is annotated with a complete IRAC analysis in a semi-structred format so that both machines and legal professionals are albe to interpret and nderstand the annotations. 
 
 
 In addition, we conduct the first empirical assessment of ChatGPT for IRAC analysis in order to understand how well they align with the analysis of legal professionals. Our experimental results shed lights on possible future research directions to improve alignments between LLMs and legal experts in terms of legal reasoning. 
